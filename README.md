@@ -1,3 +1,6 @@
+INSTALLATION
+
+
 1. Download fx-autoconfig
 Go to github.com/MrOtherGuy/fx-autoconfig → Code → Download ZIP, then unzip it somewhere. Inside you'll see two folders: program and profile.
 2. Install the "program" part (into Zen's install folder)
