@@ -57,9 +57,6 @@ This two-layer approach makes the lock resilient even if Zen changes exactly how
 - Locked tabs can still be closed by closing the entire window.
 - This is a personal-use script, not a signed/reviewed extension — expect it to need small tweaks if a future Zen update renames internals like `tabContextMenu` or `gBrowser.replaceTabWithWindow`.
 
-## Contributing
-
-Issues and PRs welcome. If Zen changes its tab context menu or drag implementation and this breaks, please open an issue with your Zen version (`about:zen` or `about:support`).
 
 ## License
 
